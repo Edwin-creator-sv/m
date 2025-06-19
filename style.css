@@ -81,12 +81,13 @@ body {
     text-align: center;
 }
 
-.header-content h1 {
+.header-content h2 {
     font-size: 46px;
     line-height: 80px;
     color: #F9FAFC;
     text-transform: uppercase;
     margin-bottom: 35px;
+    text-align: center;
 }
 
 .header-content p {
