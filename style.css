@@ -82,7 +82,7 @@ body {
 }
 
 .header-content h1 {
-    font-size: 46px;
+    font-size: 35px;
     line-height: 80px;
     color: #F9FAFC;
     text-transform: uppercase;
@@ -361,14 +361,6 @@ p {
     .header-content {
         padding: 100px 30px;
     }
-
-    h1 {
-    font-size: 3rem; 
-    padding: 0;
-}
-    h1 {
-    font-size: 6vw; 
-}
 
     .header-content p {
         padding: 0;
